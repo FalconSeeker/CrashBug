@@ -1,0 +1,9 @@
+name: CrashBug
+version: 1.0
+author: FalconSeeker
+main: me.falconseeker.crashbug.CrashBug
+depend: [ProtocolLib]
+commands:
+  crash:
+    description: Crashes given player
+    usage: /crash  
