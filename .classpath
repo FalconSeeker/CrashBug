@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CrashBug/src"/>
+	<classpathentry kind="lib" path="C:/Users/Falco/Desktop/Server Network/Lobby/spigot.jar"/>
+	<classpathentry kind="output" path="CrashBug/bin"/>
+</classpath>
